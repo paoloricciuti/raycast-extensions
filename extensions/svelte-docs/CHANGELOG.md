@@ -1,6 +1,6 @@
 # Svelte Docs Changelog
 
-## [Use new cli option in cli composer] - {PR_MERGE_DATE}
+## [Use new cli option in cli composer] - 2025-11-24
 
 Uses the new `--add` cli option for the cli composer
 
